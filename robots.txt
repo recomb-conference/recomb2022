@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://recomb2022.net/sitemap_index.xml
